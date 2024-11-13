@@ -1,1 +1,1 @@
-This contains our grou possible system projects.
+This contains our group possible system projects.
